@@ -4,7 +4,7 @@ This is my first Webpack App which i made using npm package manager. The App rep
 
 ## Common Setup
 
-Clone the repo and enter the folder.
+Clone the repo.
 
 ```
 git clone https://github.com/Adoox/Webpack-App.git
