@@ -2,7 +2,7 @@
 
 This is my first Webpack App which i made using npm package manager. The App represents simple User Login From that validates every input from user and return back informations.
 
-### Common Setup
+## Common Setup
 
 Clone the repo and enter the folder.
 
@@ -13,7 +13,7 @@ cd Webpack-App
 
 ---
 
-Instal the dependencies.
+Install the dependencies.
 
 ```
 npm install
