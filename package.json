@@ -1,0 +1,21 @@
+{
+  "name": "Webpack-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -w",
+    "start": "webpack-dev-server --entry ./src/index.js --output-filename ./dist/main.js"
+  },
+  "keywords": [],
+  "author": "Adnan Kubat",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
