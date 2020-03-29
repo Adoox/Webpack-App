@@ -1,8 +1,8 @@
-## #Webpack Application - Simple Login Form
+## Webpack Application - Simple Login Form
 
-## This is my first Webpack App which i made using npm package manager. The App represents simple User Login From that validates every input from user and return back informations.
+This is my first Webpack App which i made using npm package manager. The App represents simple User Login From that validates every input from user and return back informations.
 
-## SUB-Common Setup
+SUB-Common Setup
 
 Clone the repo and enter the folder.
 
